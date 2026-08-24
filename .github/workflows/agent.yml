@@ -1,0 +1,33 @@
+name: India Vehicle Rules Agent
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check-updates:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run Government Update Agent
+        run: python agent.py
+
+      - name: Save new updates
+        run: |
+          git config user.name "Vehicle Rules Agent"
+          git config user.email "agent@github-actions.local"
+          git add known_updates.json latest_updates.json
+          git diff --cached --quiet || git commit -m "Auto update government vehicle rules"
+          git push
