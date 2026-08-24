@@ -143,6 +143,10 @@ def send_telegram_message(message):
 
 
 def main():
+    send_telegram_message(
+        "✅ ChalakSetu Vehicle Rules Agent is connected successfully!\n\n"
+        "Telegram notifications are working."
+    )
     known = load_json(KNOWN_FILE, {"ids": []})
     known_ids = set(known.get("ids", []))
 
