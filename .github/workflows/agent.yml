@@ -32,5 +32,5 @@ jobs:
           git config user.name "Vehicle Rules Agent"
           git config user.email "agent@github-actions.local"
           git add known_updates.json latest_updates.json
-          git diff --cached --quiet || git commit -m "Auto update government vehicle rules"
+          git diff --cached --quiet || git commit -m "Update government vehicle rules"
           git push
