@@ -6,13 +6,13 @@ import urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
-# Google News RSS searches for discovering possible updates.
-# Important: discovered items should be verified against official sources.
+
 SEARCHES = [
-    "site:morth.nic.in OR site:morth.gov.in new motor vehicle rules India",
+    "site:morth.gov.in motor vehicle notification India",
+    "site:parivahan.gov.in vehicle rules notification India",
     "\"Central Motor Vehicles Rules\" amendment India",
-    "MoRTH notification commercial vehicle driver India",
-    "driving licence transport vehicle new rules India",
+    "MoRTH new rule commercial vehicle driver India",
+    "driving licence new rules India",
     "FASTag toll new rules India",
     "vehicle fitness certificate permit rules India",
     "tractor construction equipment transport rules India",
@@ -21,10 +21,14 @@ SEARCHES = [
 KNOWN_FILE = "known_updates.json"
 OUTPUT_FILE = "latest_updates.json"
 
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+
 
 def load_json(filename, default):
     if not os.path.exists(filename):
         return default
+
     try:
         with open(filename, "r", encoding="utf-8") as f:
             return json.load(f)
@@ -55,6 +59,7 @@ def google_news_rss(query):
     root = ET.fromstring(xml_data)
 
     items = []
+
     for item in root.findall(".//item"):
         title = item.findtext("title", "").strip()
         link = item.findtext("link", "").strip()
@@ -74,16 +79,67 @@ def google_news_rss(query):
 
 def is_relevant(title):
     keywords = [
-        "motor vehicle", "vehicle", "driver", "driving licence",
-        "driving license", "transport", "commercial vehicle",
-        "truck", "bus", "taxi", "permit", "fitness certificate",
-        "challan", "fine", "fastag", "toll", "road safety",
-        "tractor", "tipper", "dumper", "construction equipment",
-        "morth", "cmvr", "motor vehicles act"
+        "motor vehicle",
+        "vehicle",
+        "driver",
+        "driving licence",
+        "driving license",
+        "transport",
+        "commercial vehicle",
+        "truck",
+        "bus",
+        "taxi",
+        "permit",
+        "fitness certificate",
+        "challan",
+        "fine",
+        "fastag",
+        "toll",
+        "road safety",
+        "tractor",
+        "tipper",
+        "dumper",
+        "construction equipment",
+        "morth",
+        "cmvr",
+        "motor vehicles act",
     ]
 
     text = title.lower()
     return any(keyword in text for keyword in keywords)
+
+
+def send_telegram_message(message):
+    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
+        print("Telegram secrets are not configured.")
+        return False
+
+    url = (
+        "https://api.telegram.org/bot"
+        + TELEGRAM_BOT_TOKEN
+        + "/sendMessage"
+    )
+
+    data = urllib.parse.urlencode({
+        "chat_id": TELEGRAM_CHAT_ID,
+        "text": message,
+        "disable_web_page_preview": "true",
+    }).encode("utf-8")
+
+    request = urllib.request.Request(
+        url,
+        data=data,
+        method="POST",
+    )
+
+    try:
+        with urllib.request.urlopen(request, timeout=30) as response:
+            result = response.read().decode("utf-8")
+            print("Telegram notification sent.")
+            return result
+    except Exception as e:
+        print(f"Telegram error: {e}")
+        return False
 
 
 def main():
@@ -101,6 +157,7 @@ def main():
                     continue
 
                 unique_text = item["title"] + item["link"]
+
                 item_id = hashlib.sha256(
                     unique_text.encode("utf-8")
                 ).hexdigest()
@@ -120,17 +177,31 @@ def main():
         except Exception as e:
             print(f"Search failed: {query} -> {e}")
 
-    save_json(KNOWN_FILE, {"ids": list(known_ids)})
+    save_json(
+        KNOWN_FILE,
+        {"ids": list(known_ids)}
+    )
 
-    save_json(OUTPUT_FILE, {
-        "checked_at": datetime.now(timezone.utc).isoformat(),
-        "new_updates": new_updates
-    })
+    save_json(
+        OUTPUT_FILE,
+        {
+            "checked_at": datetime.now(timezone.utc).isoformat(),
+            "new_updates": new_updates,
+        },
+    )
 
     print(f"Found {len(new_updates)} new relevant updates")
 
     for update in new_updates:
-        print("- " + update["title"])
+        message = (
+            "🚨 NEW VEHICLE / TRANSPORT UPDATE\n\n"
+            f"📢 {update['title']}\n\n"
+            f"📰 Source: {update['source']}\n"
+            f"📅 Published: {update['published']}\n\n"
+            f"🔗 {update['link']}"
+        )
+
+        send_telegram_message(message)
 
 
 if __name__ == "__main__":
