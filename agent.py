@@ -2,6 +2,7 @@ import json
 import hashlib
 import os
 import urllib.request
+import urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
