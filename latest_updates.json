@@ -1,85 +1,61 @@
 {
-  "checked_at": "2026-10-22T10:46:48.358870+00:00",
+  "checked_at": "2026-10-22T16:12:31.599250+00:00",
   "new_updates": [
     {
       "title": "Ministry of Road Transport & Highways, Government Of India - Ministry of Road Transport & Highways",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXFMUGxfdnI2N0F3NFBqN2tueTBZc0ZBbjBFckxOVUVUcXBJdmNDcUxNM1RTVUYyN2JwRFF6SFNlY1lEN3pRYjZYZ1JlQ3VhaklHYlU3TDE0Nmt5bGVmZkZURnAxcmQ2NkFmM2Z3dTZZZlVkbWJIVWJmaEl0UXk0LURLcXpDV2REWmN6TGhobTNvLV80dmc?oc=5",
-      "published": "Tue, 03 Sep 2019 00:58:33 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUG4tUWlmdHNEa212MzJXT2ZFYzNucm5ZOE5kOHdBZHIxSm1sZllVT3I4U3Nyb1VqMWdiSzdFYjlUdHFZZlpfYklmU005X2tELXd2b1N2ZkZyeDA4blQxUFdSbVpLMlluSGR5ZUpwcWRvVlVEelp4bzUyelRLMHVBR0FiMmp6N3RvTWM5NzNR?oc=5",
+      "published": "Tue, 31 Mar 2026 02:44:15 GMT",
       "source": "Ministry of Road Transport & Highways",
-      "id": "7de3d2b172d7eb94eaa26d73caadebc77d5ba341b12f139db95565eb00835dac",
-      "found_at": "2026-10-22T10:46:44.598723+00:00"
+      "id": "9df90367b0cf1d7af9b671519856f746fe18cc7ca9dba5db933fd91f42aff324",
+      "found_at": "2026-10-22T16:12:26.558240+00:00"
     },
     {
-      "title": "National Road Safety Policy Preamble Policy Statements Establish a Road Safety Information Database - Ministry of Road Transport & Highways",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdGVJVUVDQXBZYmwtbmJyMTR1Q25JRm1KZnNQZXB4SFhXalRBSkhNSEdnTEJWUDNYV0lhLVI5SC13SlduSEZ5ZzMxNzg3ZDZ4TEpkOG9qOWJrdEpLRDZDeWgzSTROTV9POW9OLWRwTDdhNkNsanVsb0lqTjhHNFhXOS1RcWw0YWdzSjdRWnQ2Q0RNZERhblRvc1hOWFJoOEFFNkRjRTRIMTEzNk1DWWN4cWhBYVhwajdkTFp4ag?oc=5",
-      "published": "Wed, 15 Apr 2026 07:48:16 GMT",
-      "source": "Ministry of Road Transport & Highways",
-      "id": "f677bf82308f46c2c7ee02ba7407fd372036506e2cff7c81c02d6a9708b078c6",
-      "found_at": "2026-10-22T10:46:44.603363+00:00"
-    },
-    {
-      "title": "Ministry of Road Transport & Highways, Government Of India - Ministry of Road Transport & Highways",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNm9uS2hkNXU5U0htYkZXS2g0UUxzOEtpRnUtUklCWm5HOFI0XzlNZjJTSXlPWkNoeG13aF9hWGJ3d0NLdVFTUklUREs4Zw?oc=5",
-      "published": "Sat, 28 Mar 2026 22:11:30 GMT",
-      "source": "Ministry of Road Transport & Highways",
-      "id": "c8681c1ee458cc7b1cfa29c0f8f0b9576a3700301f18441bd44f6f33d2624754",
-      "found_at": "2026-10-22T10:46:44.603422+00:00"
-    },
-    {
-      "title": "Eicher Trucks & Buses Partners MoRTH For Delhi-NCR Fleet Modernisation - Motoring Trends",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMTV5Q19mZVkwN09tdjlwQXE5MnV5RWU1cHpTUHpJUklRc042MjRKWjVuSURnbHZZMWQzbjFBVVFUR01sYWNrS25fb1pNSG9XdFBxM19sT2N6Z0FvVGR0d2JVcEgtSUMwdnFrOU5nbFpxVWs0NFppSGlCMkFjWlozMGNUelVWX3phS2tfVUlfNnVhYko3aEFmVmozRVFIZzh0NVJnYjBMY3kzNnN0cmRCWURDR0xwZ0U?oc=5",
-      "published": "Wed, 01 Jul 2026 08:02:05 GMT",
-      "source": "Motoring Trends",
-      "id": "a6da07e93effabadd8133a2c0dfb54c7e0536f74e31c7768cdb18e3e861d497d",
-      "found_at": "2026-10-22T10:46:46.588045+00:00"
-    },
-    {
-      "title": "Driving Licence New Rules Raise Pass Mark to 75% in Draft Plan - Urban Acres",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaU1jN1FYemxRWHNwaHNOMkRjMFdNZU9MalVTQXRXTUJpdTRkX3Fwd3RoOHB6S0tyZlBqelI1M245YTBBQ21kdXB4ZVBfQlBqM010NU5kaHFIWlQzQmd5Z0YyVjI1dUgycW9WRnYwNDJEaUZ6Y05Gdk92UG9IV0lQNGh0WC1lV3JxRDJkYQ?oc=5",
-      "published": "Thu, 22 Oct 2026 09:48:55 GMT",
-      "source": "Urban Acres",
-      "id": "12337d2b98bf36af9c8bbe7ebf9c314b40633c585dfa3842acdc170e88e0b43c",
-      "found_at": "2026-10-22T10:46:46.937275+00:00"
+      "title": "VAHAN 4.0 (Online Permit)~135~8019 - Parivahan",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ORmVBQXFES0J0dUZjMVRtVnltbUpPaGc5aTJsRGFFSXZIb2pIU19uTTBtTV8taDJmalZwMVU1UEhfT1RHLXFFTFhpLWFkR2VpNVZzY3lwMDFERzA5V0xjRS1oNUxVaWV4b1BIOTRvYkw3bGs?oc=5",
+      "published": "Wed, 10 Mar 2021 07:21:06 GMT",
+      "source": "Parivahan",
+      "id": "dff78237c97737d77537ac5b335b24a540ef6902521d037780ba487ccb90f826",
+      "found_at": "2026-10-22T16:12:27.375646+00:00"
     },
     {
       "title": "Driving licence new rules: 75% pass mark, 15-day deadline for name & address changes, some online services - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNSEtEZG03a3pia1ZKaC11c3VIdmN5X1pBV183MHZYYThOeWRkWlFDMUJkc1RvN2FOelZjT2Q2U1cwSGxLV0V3TzBTTEhjT3RmTUs0anFlU3hXczUxcXdjY3FTaXRlbFZtYWx4V19DYVF2d0RseVE0TzlSMDBHUWNFajhodnZCNkRWdHdjMDgxMHhCSmc4MXlWcGoxQ2RtTHRRYUF2VGFfbUVZNFFJNk05YnN4V1FES0pUOGFLRXdGMGJWZ3NwSjd5ZDFwNmpDODBBY1ctMGRwZ0pvZ0gwenRvODJ0dHVlbmxNNTZSSlZvckZRSWdSZXN1UjNIVnhtbUJVM3pWYjFjWU40cjNTUzRSbGVpRUlWeFBqWmVfbGg1ejZJRks5MXFmWndiVWdTSXR5R2hqMkpYWDJIMV96bnZrcGVjT0hwS0xVWmxrWm9QQTdnQdIB0gJBVV95cUxNSEtEZG03a3pia1ZKaC11c3VIdmN5X1pBV183MHZYYThOeWRkWlFDMUJkc1RvN2FOelZjT2Q2U1cwSGxLV0V3TzBTTEhjT3RmTUs0anFlU3hXczUxcXdjY3FTaXRlbFZtYWx4V19DYVF2d0RseVE0TzlSMDBHUWNFajhodnZCNkRWdHdjMDgxMHhCSmc4MXlWcGoxQ2RtTHRRYUF2VGFfbUVZNFFJNk05YnN4V1FES0pUOGFLRXdGMGJWZ3NwSjd5ZDFwNmpDODBBY1ctMGRwZ0pvZ0gwenRvODJ0dHVlbmxNNTZSSlZvckZRSWdSZXN1UjNIVnhtbUJVM3pWYjFjWU40cjNTUzRSbGVpRUlWeFBqWmVfbGg1ejZJRks5MXFmWndiVWdTSXR5R2hqMkpYWDJIMV96bnZrcGVjT0hwS0xVWmxrWm9QQTdnQQ?oc=5",
-      "published": "Thu, 22 Oct 2026 09:20:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUGVDRFlvUXFNZDQ4UlliR1BvRTNVNE1ual9LMmNCRVlqSHFtU3p0ZDJuOERPYTB1TFdIejJZd0d1aDdzT1lKSmJaTWZMeExHSVFoTmhRM3kyRzh4ZXlRMTktdnN6SjRmX2RqM0hXS1ZFdks2Q2FJYUk0Q2d4cUgxcGxMakxhWDhCUEVJSXZSdHBqdEp2QkJRRVdQUzZTYVhfY3RaRGp3cllFVXUzejdrSE1KWS0wMTJncjN3QkY2STdWU2d1cGxjRmFmOURFclFjME4xZzcxdV9CU1A4NENpZy1DeHV3VnpqRldKUU5TckZYaTBhS1pJNFlPbFpobEQ3eGJsQm9KMERSTjhGRWNkbVhaQUhpckc5Ym5EZzZoM1JLSElpZjBmWjRwR0FyeHA2NUVpMnZFZjFvSzNPMmRpMkJaSjIzeG9nUkhaVXBCSUxQV2JTZi0zVtIB0gJBVV95cUxNSEtEZG03a3pia1ZKaC11c3VIdmN5X1pBV183MHZYYThOeWRkWlFDMUJkc1RvN2FOelZjT2Q2U1cwSGxLV0V3TzBTTEhjT3RmTUs0anFlU3hXczUxcXdjY3FTaXRlbFZtYWx4V19DYVF2d0RseVE0TzlSMDBHUWNFajhodnZCNkRWdHdjMDgxMHhCSmc4MXlWcGoxQ2RtTHRRYUF2VGFfbUVZNFFJNk05YnN4V1FES0pUOGFLRXdGMGJWZ3NwSjd5ZDFwNmpDODBBY1ctMGRwZ0pvZ0gwenRvODJ0dHVlbmxNNTZSSlZvckZRSWdSZXN1UjNIVnhtbUJVM3pWYjFjWU40cjNTUzRSbGVpRUlWeFBqWmVfbGg1ejZJRks5MXFmWndiVWdTSXR5R2hqMkpYWDJIMV96bnZrcGVjT0hwS0xVWmxrWm9QQTdnQQ?oc=5",
+      "published": "Thu, 22 Oct 2026 09:20:28 GMT",
       "source": "The Economic Times",
-      "id": "b07b66be0feff260a60474e3ee044da6622ed47d9f217ad877076573798ed7b1",
-      "found_at": "2026-10-22T10:46:46.937304+00:00"
+      "id": "444e0ca48043daacd9c47c71bd81b596b21d2dc3fae6dcc3a35a21b82855c3c2",
+      "found_at": "2026-10-22T16:12:29.794453+00:00"
     },
     {
-      "title": "Electric Tractors Cut Farm Energy Costs By Up To 84%: ICCT - Autocar Professional",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMl9qMGZYY3NubHJCakVrSHRuSVZnc19WUG1nQmhaNG9nby1ocHhVYmp0N0hzVHhiNnd3TUZuNTAxbTliSTZhZHltRGJNS0dGU3M4b2RjNmpSX1VTeGt1VHFkbmw5N2lEZk9HcDRsUkpxX2FWakRfM29UOXVjVF83eDR1T3Rnc3pQaE9oT3JIYU5ZODNUTC1EUUxrVGt6MmZTMkxTQdIBrAFBVV95cUxPU1dFaEo5M2dwWU4yQnhrVnhpS2tja3d3bW82VWtyeVpBcEdtaVc2RWFtcGwzWGdUR0g0TUREZGVKT0tCY2d6b0xJQ0pKYnlvWFhtT2VwNFQ5WUZpNndmSklDYmNUUEhDb2U4RS1ITlVkTEY2TEpIQ3YwSnZBT0RaRmlxMVRBMUVCeDNjbDZEZmNpeTRjYmV3ZVJ3bGY4N0Q3SHJOd0JtazloMG9L?oc=5",
-      "published": "Wed, 07 Oct 2026 07:00:00 GMT",
-      "source": "Autocar Professional",
-      "id": "3cecdd88603d37494525c365d352f6bec13c1dde253b1e011e9cb31b9e9f6711",
-      "found_at": "2026-10-22T10:46:48.356115+00:00"
+      "title": "Driving Licence Address Change May Become Free Under New Rules - News Arena India",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd25mZU1aOGtrYi1kclNkSnYwc1d6Z3M1U3JiR0tyNDVzTi1IR1hsZ1RHUmtVMUFTanR2WVhmVmRnY0pHMTJsMGFLWEdhYjE3Y2lYem90TmpnRElCQ0JSczdGZllHN2hlcVZmLTdwYldXN21aZjF1MkhrRkR0Y2YzbjVJaGdQeUt4d2Z3NzUySmNlcjBQSjBReHNmelJBMkhGYUZZeQ?oc=5",
+      "published": "Thu, 22 Oct 2026 13:06:41 GMT",
+      "source": "News Arena India",
+      "id": "db6f229581bbe4acd33073bacda76737d31d7e2620c2d1b06d31f44afd196363",
+      "found_at": "2026-10-22T16:12:29.794470+00:00"
     },
     {
-      "title": "Govt Drafts TREM V for Tractors from October 2026; 25–75 HP Segment Gets Breather - Autocar Professional",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcmZ6NnNuYjJBYjdOOHJGeHJOd3ViaWhZdUhRNk10Vk56LVZnMEJVSjIwcllrUXR3bWRXNmczRDRVaWxuY29nMGpaZXRmY2lrU2lvenNCb1ZkWm9mdG1BTFcydGpMdjBwUFVFR0ZKT241MmN5bnRGaExXTG9BZ2gzZjczcDhQQVBSMlQzdC1aNmlJdEhlZmxkSEdQTHhwaFZtVVdCXzl2M21jOGpLUmRBMWEydkV3OTRLNWc3MWQteVROLWJQTEFr0gHPAUFVX3lxTE9EajFDRmo4OHRlczZueGtad0pNVnhJUFlUU00zZjhsd3BzbGZBVnNMYi02OUEwUFRkMUNPdFdnVW9sMG82OHU3MW5oUF9ralp2TkVST1hPOVJRS1ctNllpU0d5YlNXRTVXNGVCVGo1SmIzMUhoVUh5eGVHeDZOU1NTYVRJVVNQbksyNThWZDg1NGxOSDd6RWVmdVRCMDF3Nkkya0NVZkEzRUI1V3ZxWm4xejJiMW1BVUxMZ0VjSjhQdlNKSWNVeGZ2dmxsV01VQQ?oc=5",
-      "published": "Tue, 03 Mar 2026 14:28:03 GMT",
-      "source": "Autocar Professional",
-      "id": "6cd012e682b369d06b03e3a24c76349c66327fd9117ef3965fb286c3c874afd9",
-      "found_at": "2026-10-22T10:46:48.356181+00:00"
+      "title": "Driving Licence New Rules: 75% Pass Mark Proposed - Urban Acres",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaU1jN1FYemxRWHNwaHNOMkRjMFdNZU9MalVTQXRXTUJpdTRkX3Fwd3RoOHB6S0tyZlBqelI1M245YTBBQ21kdXB4ZVBfQlBqM010NU5kaHFIWlQzQmd5Z0YyVjI1dUgycW9WRnYwNDJEaUZ6Y05Gdk92UG9IV0lQNGh0WC1lV3JxRDJkYQ?oc=5",
+      "published": "Thu, 22 Oct 2026 09:48:55 GMT",
+      "source": "Urban Acres",
+      "id": "a45da859e3ef811606c925251e3cab756f3cda632c674dec2baa223bf8e0f9eb",
+      "found_at": "2026-10-22T16:12:29.794476+00:00"
     },
     {
-      "title": "ZF tests double-trailer trucks in India as roads improve - Autocar Professional",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRk84Z19UUUNyTXNYSVFZcjlpN2IyZUdMSUZPNHVRMVVJU1FZUDhOTmZOOEhMTG5NM0hQYU9VUHU0NDc1SjJlRHRsNUFWNnZLZTRRZ04zeTg4THd3c0NyNVFLcUV2TFFDNVdyeUh4cjNCMTFUa0FVb0VoZFdpdFJ6MnI0NElYRm1hQnAzRENUNUJqX0tNY2daQVh30gGiAUFVX3lxTE1xTTB4VDR0X0ZGbkVRdkZkNmU0eUtmOFpjX3E5cEZrSHNGNHlpc1IxbVVXZjF2Y1gyMWNZdW9KTFJ4dUdCTnlYVTVJV3VpTHNETVRwVjFhMldpeDVxS2NsQm8xTXNVMUxlSnhuYWdvRzFzNlphTF9rVzRlMGJWN0JySGJCdFVQX2lVYnY1OWdBWkc2Y2NqcEFTSnRfX09jclNOZw?oc=5",
-      "published": "Fri, 08 Mar 2024 08:00:00 GMT",
-      "source": "Autocar Professional",
-      "id": "09d0a329684594c18ec1649bdc995a1d9fb7fd8e4993cd42112d798406046fa2",
-      "found_at": "2026-10-22T10:46:48.356235+00:00"
+      "title": "Driving Licence Address Change In 30 Days: What The Centre's Proposed Rules Say - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObU13N1RoT1VaMWIxNnluYjlsYkZGVU1UeHYzRkVlbjRwY09zOXJMQ3lmNUppQXI2Wi1qVWFodHFmQ3V2Q0V4cUdVXy1WVW0xSUtFT2RWS0tieGRiSjhIaXVRdU1pdnFZWVRPdlVSRXRLUlhvaWMtSFBuNl9aY3RJMG1NVXk4Q1JJOVo0cUZ2UjFfaDUyTnB3aS15MWJsMEI4cmd6RkFwZU5oaXlGdXJZX196Q1ltUXYySGVOMzgycVJ2RDl3UExBRGU4Q2tud9IB1gFBVV95cUxQV3NTUnY0UGRVSVFBRDZlUERDSUtIbUZRMjRoU0J4dFNkZllDcjJGOFNxYUpma1BWZ1BIeEVYaFEyc1RxN25LMUtMRWhjYzBuR1F0ek1DYUx3Vk8tUi15bHI5U052VHQzazUweElFQkFuWEs2aHNsSjM2emtmLWo0d3BHZkRiY1NBYlBnb1hzXzIyVGZQOE1WWGdyNVloTWxmTzBubDE4aU5Yb0wzTmRCenk2S04zd2xYbURaSWNzWHpKdkNXNW4wZDFHUmZYR2xUQXhqNEZR?oc=5",
+      "published": "Thu, 22 Oct 2026 12:23:02 GMT",
+      "source": "NDTV Profit",
+      "id": "13a0368ecc8641a5db585f3b5bd2cca69eac9357948db8e06dc3779797a819dd",
+      "found_at": "2026-10-22T16:12:29.794482+00:00"
     },
     {
-      "title": "India Drafts Mandatory Cybersecurity, Software-Update Rules for Connected and Autonomous Vehicles - Autocar Professional",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZTN3R3ZnTE9XUldEc3JVNVlMNEJOY19SNnEwYkVOd2Vtb09NOUNFT2VXUEYyZE9hVkNKUW5VWUxxWDRQMllMWXlLTWFkSlFWQWZqWk52VXNUbGlKSUlXVWF6SFdHUHZhczhITVVoZkpWRHhsS25GSUZ3dW5zUHBTVEE1LVV2QUQtbUswbkhhcUpZb3FPLTFfUW16QlpCcTB2U0dNbEJSQ0dFd0JFREJ3U3M5M0ZGRUtlYTNEckEyekhxbHdPNDFLeWpZcDN5MEnSAdcBQVVfeXFMUC1LVGVYSlh4dll2YzdzekJ1SDVVU19TTVlKaTZRVm9RaEo2TmhOWFNabElLQmpnaXlSRmVGbUZnNGhmQVg5d1JxRldhYWFBNFBpQTRVRHU1SG41M21sRXJDcFQxdXV4aHlIUkZYdUNQU3JEVi11bmk2Ym42N3NxOFBhM25kd0cxdkxuVGRjLTFfWXNLZy1lanpmOHNNTG9IZVFjRGlFa092Qkc5Q1lJLU5UMXZJRFdzLVJHMWtleFhyS3pRM1NzUDZ3am5PaTQxTTdEV3RlRDA?oc=5",
-      "published": "Sat, 27 Jun 2026 07:00:00 GMT",
-      "source": "Autocar Professional",
-      "id": "440189d2d424077f2ba83033e38e3c3e5a62e32a042edb2261a63ad2fa504b8c",
-      "found_at": "2026-10-22T10:46:48.356311+00:00"
+      "title": "New Driving Licence (DL) Rules: 7 major changes that could impact drivers in India, changes for tests, fees and documents - Zee Business",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOd3hOUlRqa0FHSUJDSU1waTlWNnQ0U2FzZk5Pd0J3VmVrSmJrbS1ZSHFOWUwySEhTMlp3ZzBZUmxiaUNZRGJpX09ib3plUkdpVm9iN1VFTWgzUFp6R29mTm84bU9xcVVVS0VQZGpOYWRfd29TckdWRkU3c0lsVXFVbm9HZEZjcG1XVVhEeFZaYVF3Ym5yMnFQVFIxOXRqUm1sM0hWOXhVRkZ3eDJ5VUxncnVGcW1JZUNGbGI1aGF1X2VJT0tLOTZvYV8yQ25lWGl6S1RHVDZjelNFT01MQVVKM0dsV2w1dTJGT3Z1N0dNQWFIYXhfTUl4LXBLWGw?oc=5",
+      "published": "Thu, 22 Oct 2026 05:23:28 GMT",
+      "source": "Zee Business",
+      "id": "fbeccbcf38a0db46e9d88bc4f18ea043cad3a69b5b37fa64f06d1e627acbdb9e",
+      "found_at": "2026-10-22T16:12:29.794754+00:00"
     }
   ]
 }
