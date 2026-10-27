@@ -1,45 +1,69 @@
 {
-  "checked_at": "2026-10-27T16:58:30.420445+00:00",
+  "checked_at": "2026-10-27T21:32:59.624306+00:00",
   "new_updates": [
     {
+      "title": "VAHAN 4.0 (Citizen Services) ~SP-MORTH-WS03~175~8014 (Build Version:202610261757) - Parivahan",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYVNSZ3ZoVVFTUkw4dW5UVmhSVUpmeUxTVjYxY1l0bnF0VzRfbFo5MVVZSVZnbHFtVG80R2cxanFHVlJtZ283YmxLdnoxN2M2RE9qbDF0UzUwbmRGcFVZNnlEZHd3V2Vsdm9vOEVtT2FNd0xyUHdJR3lvbEY4U2VzVUhfZW45MWFfemV5MTc0RkJCZ3JSb0NyeHNPcDRkMkgyU3dtT3dITU1WQ0NiWnZmU0UwbllKMWx2NXJieDVrRF83R1lzSllzR0xyclR5Vl9QSk5QY0gtYw?oc=5",
+      "published": "Sun, 27 Nov 2022 03:58:00 GMT",
+      "source": "Parivahan",
+      "id": "0fc4c6275fa1033ead5532369b396fb768912303561e6c63106381f4c107d10e",
+      "found_at": "2026-10-27T21:32:57.240257+00:00"
+    },
+    {
+      "title": "VAHAN 4.0 (Citizen Services) ~SP-MORTH-WS03~175~8014 (Build Version:202610261757) - Parivahan",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMnI2dW9rTUtPYjUtay1oM0N4VnlCNExCb1RqV1lGSDRheFByWDRsaXZQRmV3aDF5dEdlN2FpZFpzVnZmeUM0TDlKbnpsSnZCb0RCbHlIUlE4WGFPb2V6UGJrNHdNcE5vbE01VVRNWnlLaTJJWDVzYXhxTWpTWXBFblZqTi1WaHJ4NmEtOTBGbXJQeTJYLTRFSUI5UTNfU080VWw5QWxDVlhuNnotS05VWjZQTzQtTmhSTzBwQWxXRzhUODdZMWJvQ1RDMGZxRXNVWlJZWllmTQ?oc=5",
+      "published": "Wed, 27 Jul 2022 05:11:13 GMT",
+      "source": "Parivahan",
+      "id": "09093083b4f10aa7418e3907e919911a59df014da18c393488e50d156db0af09",
+      "found_at": "2026-10-27T21:32:57.240281+00:00"
+    },
+    {
+      "title": "India Updates Vehicle Rules to Include E100 Ethanol Fuel, but Existing Petrol Cars Cannot Use It - www.nationpathindia.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX0hIa0RBT3cxRGZBTUJ6OGRxM09WaWxFQndHTTFibndSRWFzMllRSDF2S0YtTS1haGExbDVxNXRuTmZVbzFxRWFhcF8zQWdQclRraWx0M21yTWxRdXdLemVmckQ4VzAyNUI1dG9uc1ZDd3k4d1BULUdGaF9PN24xaDhNSkZKb1hxV3pteWhJQQ?oc=5",
+      "published": "Tue, 27 Oct 2026 16:48:54 GMT",
+      "source": "www.nationpathindia.com",
+      "id": "e96dd19754dba54764dfe425874d2f64dd57ef4843428dabc828b6ab35ff39f1",
+      "found_at": "2026-10-27T21:32:57.645908+00:00"
+    },
+    {
+      "title": "Centre Permits E100 Ethanol Fuel in Flex-Fuel Vehicles Under Amended Motor Vehicle Rules - Adda247",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQmxsQUFPcVZwV0ZWX1BRMFd4NkltMUY5em83TzNnX0R1NmdLVVh6bms4eXJTVzRwU09TQWxTSjZfbzR1Q21Bem9XalpkSi1uOUJ1R1doYXJkUXUzMl8wNEx2UFRMTEtPeVgwTE95bzdCWkZQSmpGNGRKN0ZyX0FuaHZfTTJJX0o3Y2Q0QmlsV2lGSXFtUnpKM3Qxc2hvWUJZdjlvVlpwQ3M3VHpxdVg1cS1uN0FpejNkVmdRYzJLZV9reXhlMmFJ?oc=5",
+      "published": "Tue, 27 Oct 2026 07:42:03 GMT",
+      "source": "Adda247",
+      "id": "8521e9a70dbbdc3c4a7a98b16c8ef688e18bb2946345698d1ad68d9340878238",
+      "found_at": "2026-10-27T21:32:57.645949+00:00"
+    },
+    {
+      "title": "Centre approves 100% ethanol-powered vehicles, notifies changes to motor vehicle rules - DNA India",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ3ZpeE1VaXZqaFVZTmVtR0VteTN0TVhQM1VXandFNG5fQWJQM2JSanozdy1rRTA0emttLVVWSGlwN1RKUVpkMVdQWExqenRaU2ZKTHVOcjd4b2sxbW1SMEw1Q1pZYS12OWMyN1I0MzRkMXhLS1Q1RzdsUkROcU4wUzRsWTRfcUhGUXd6MWRHeWRrcXUxZ2l2OXJicmNSVVluR1VxUUNMN2dpZl9qYVRwVlIxdzdSWW4wX2UxeERLeWxuaGt4X2JoRDVQal9PeHfSAc8BQVVfeXFMUEN2aXhNVWl2amhVWU5lbUdFbXkzdE1YUDNVV2p3RTRuX0FiUDNiUmp6M3cta0UwNHprbS1VVkhpcDdUSlFaZDFXUFhManp0WlNmSkx1TnI3eG9rMW1tUjBMNUNaWWEtdjljMjdSNDM0ZDF4S0tUNUc3bFJETnFOMFM0bFk0X3FIRlF3ejFkR3lka3F1MWdpdjlyYnJjUlVZbkdVcVFDTDdnaWZfamFUcFZSMXc3UlluMF9lMXhES3lsbmhreF9iaEQ1UGpfT3h3?oc=5",
+      "published": "Mon, 26 Oct 2026 11:35:00 GMT",
+      "source": "DNA India",
+      "id": "c718cad1ca4536457e832aeeec2c5769c8b70be44c8432e86c31b4011cea4d9c",
+      "found_at": "2026-10-27T21:32:57.646036+00:00"
+    },
+    {
+      "title": "MoRTH proposes stricter driving licence norms with 75 percent pass mark - Autocar India",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2dySWJhNkNxZlpnNVBUVzZDdGozVUZWRVdxcmV3WFkyZFoydElhcUY2UWc2TmdQUkl0LTFWS1hlNlV0SU4tNWttWllNc1lhY2kzRU4zLTY3S2dwenRVV1M4N2xUQ25ac2dWcWRNdktWa3ZKYmNDTGhYWmFVWjFzNlFMWWo1VzZoVGE3bTdWTXpPZ3JMT3I3bjl6REt4SDFDQzN6cHNlcmNCalM5YV85VVIwYVhPVExu0gG-AUFVX3lxTFBQeW4xOU5YQXdOSURLUWEyYVBaSVpURzRsdTJiaEltZ1IyazJTblhidGRXMmVxNzl3V05haWk2SkpmNkxFY19oWjRPU01CTi1ySlBHNnB0ZTRUVmtYS0xNQTAyN1M5dURuZTY5X2d6ZDVIanI2MzlBaXJoaXFVLTVldWp6Wm8wU0pkUlRpUEg2U0pGaXkxS3g3d3EzNmNLX1RDUEctWTVJeFF3V1FkMk9GQmxQNEFLSkMwb2ctcWc?oc=5",
+      "published": "Mon, 26 Oct 2026 07:32:15 GMT",
+      "source": "Autocar India",
+      "id": "c18efd9f0122c06fca84d6ae5dc4fd670213220ed99bc0da78592516e9d7fd6a",
+      "found_at": "2026-10-27T21:32:58.039777+00:00"
+    },
+    {
+      "title": "MoRTH Postpones Mandatory Commercial Vehicle Fitness Testing Deadline To October 2024 - carandbike",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUHBVLUtZN1Z3WnhSOXlDYXZlUjM5cHA2Tm9UbEhuY29WQmJPQ09ET1JBcTdlRDRqcXNsUC1VbjFuRkhnQkFXbjFUOV9mMzZDZ1o5U2JGYWl4U3VwTDd0UWRaODZ2WFpjWFdhUTdwUk9ybkpiMVNLRHNJNno2UzZIUWY0TkM3bHYtRkVKYk5KMW9tZUx5aEZNbkUtRjVabDJPaTZUTjNDamd2LVUwNGNOeG45RVVhNHdsLUYtYTJlRmV1QjjSAcsBQVVfeXFMTVlidmpvNnlzT0hwOEpJdkpzSG9DTlBqMXRZRWJqS1c1V2RmZ2w2azVMVl9LNERYaUNoZjdpcjZrb1RNSVhpMTVycDVkRzkxWmJhRktWVlpDV19xRWk0Y1VvZ1IybktiV0VXU29BbTBaTVB1ZUVzd051ZmVoV1JaN1FGeEY2MV9zTzRnSTFfbUtVelg1ZVNUWWU3aWd3SURySUpXMmZXTGtQZUh2YTZ3eXBjOUtGR2R2N2J0UGl2US10eVRhSmVKRUpURFk?oc=5",
+      "published": "Thu, 21 Sep 2023 07:00:00 GMT",
+      "source": "carandbike",
+      "id": "8085b6531c50e8b375e3ea0874bb905bffcac6255fde070c5ccb907283489bbc",
+      "found_at": "2026-10-27T21:32:58.039816+00:00"
+    },
+    {
       "title": "Toll Plazas rule changed - Business Upturn",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcm5kQ1haZ0ItT3MwMl9KcXFpZWZxbnVzM0dTV1gxTlZzektJNEIxWTdsRlBzNXUzUnVyeWJqRmdvQzB4dVNsV1JfcEpoUHlCQWtvQl9VMzlrVkd6bjlJNXRWOW1GVzZRS1psREtDdkNxYVNzOEtlVFVDWHA2cmhtczMwMkxUbGtXLWo0Ykl0MHA1TDY3elBWMEF5TDFuT3YzYTZUUUJjc3VxSS1JWEE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FodC1CMUZYTHNFV0JtTVRGVVVUbUZ3VEI5MWs4aGlxWjQyR2owbU9CdVRZQVRZYW9sVl8xdDdjaEM3aGR2enpFZklZaThQZ1NaaVpiSWpXZHJ1V01BdXpqbWRCejY1M0did3QyNXIwZHlaLU1ielluZlJvU0hZVEtNbko2QmozZ0swc01GVGpabWw1dzNoWk15S2xOYThhbnF1VElUWGg?oc=5",
       "published": "Tue, 27 Oct 2026 13:29:52 GMT",
       "source": "Business Upturn",
-      "id": "1cd1f6911fcde6abdef8bc845acfd0bcdda9847aa1e8840f071127307e2d638b",
-      "found_at": "2026-10-27T16:58:28.699858+00:00"
-    },
-    {
-      "title": "Live Within 20 Km Of A Toll Plaza? You May Be Eligible For Rs 1,500 Annual Pass From November 1 - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ3lpYkdmM1F2aVVLcnZPMFliWG9HajlhNTBaS2ZRZHB5SlNEYTUwa3RQMGluY295bTc1T0xPLTlydE5kUHhhckphSkFFMkZfWmIzdjRiV2V6VkJTUnh6VzZCY2tMek9saVJmTlh3VjhBYlZlbHo1N19Cc2loRXVUalNWRTVjRkRiMjE3cGZkWkJ6aHRiTnNSNTcwNEpsZUJoN0RMaG5rZGoyYlN1UVF5d3hEYmJfcTJpaFJhd1FpSE80ZWowdHAycEFrdUlmTndX0gHYAUFVX3lxTE1HdE9VdU01cGFzZV9mNnBrVEtTXzQ1LVhDTkF6MlBnQ3Q2OHV5dnk2M2dVaTZvYmNBUDAxcXlPYlNMS1ZPaE05UHQtbnBPU3JVRVVMXzQtdWc3UHRFNThfVWpadmFFaTh4dHBQSGJUcVFaU2N3NnNlZlF6Z0k3bjkwQ091aFVLdF9rMzFqWGlJbDhzMXp0NTZ3X2xUcXZfVlRVNmRFZXhITGVzRWdpYzdSVk1LVWZDUDZMN1RlQ0xPcW5DRGhxTXlBUVdrRXBjbnRGaHRETDZoMw?oc=5",
-      "published": "Tue, 27 Oct 2026 09:28:30 GMT",
-      "source": "NDTV",
-      "id": "833567778c9c670a9df19bfcb9fe33ba92ecbe4929b075a7d38ef9f5ac5c80cc",
-      "found_at": "2026-10-27T16:58:29.539570+00:00"
-    },
-    {
-      "title": "Live within 20 km of a toll plaza? New FASTag rules kick in on November 1: Check eligibility for ₹1,500 pass - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQU1RXUWNmcUZfYkE0TGZhNFZrTFl5YVpJX2JQSDd0VWMzazlhN0ttUEFmYU9CY0xTUFdMVTFiSWxoUmZxVGNjVi16eWJBX2piTzd1cG52Y2tlSVdUS1hnNjBFMkJqVG83Wmg1U2xSNGh3QmN1anoyT1dHZ0V6ME83eDhRekRpQ3ZTOTl0R0RCd0JidTAtVGVqSjNKR2Jod205ejZQVmg5V0ZUcURJM2dCdThmMEtJdUtmU053ZWVZYWZjZjE2RnV4NEtVS2tWZ055cmc5YVZZWFl3MEdPdDkzR3d5dkowajBOMXprOTF6OUpDZ9IB9wFBVV95cUxPX0x4U1RNMWZRQXlOblptRXpDbVFjVUprU093NGJKNWM4am1nWUtBaUhhWGtvLXh4QUJlSmJpNlZHMHNSRXJKR1IxZmNMWV9IZnRsNmMxamFtbUNnSjY5UEdEOFJpTjlwUl80cHpHTlZsZS14Vks2a0ZqRDJaSkQ5bldiVmttSGt1TkY3bTl5U0tpYmhCMGxib2J5Vi1SRnN3YVowN1dzS21uTVUzZzgzMFFVTEF5OVVSZHdCN0xyVmc5VTk4SE9zNll4TEh0YzZSZXJrM2V1cXFBeDZUNFRKVVRReEQyOU10TkJTX3RxTXM2VFpPMVZN?oc=5",
-      "published": "Tue, 27 Oct 2026 13:17:13 GMT",
-      "source": "Livemint",
-      "id": "e0d354e372ba42fd1d03c487497bf8e96e12ac66bf34c4f60985a6382865e8de",
-      "found_at": "2026-10-27T16:58:29.539592+00:00"
-    },
-    {
-      "title": "FASTag mandatory from today! No cash at Toll Plaza, If you don’t have it then you have to pay... - India.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV2cyUGdENFBUa3FNdmZ5bTJNSmxoQlMzLXZtQWVCdHpEUzRpUGZoRWF2XzJrOUM0WWVETnoyZkNVcTU0bE1QRndlRTZ6S05pdnFtOEdJd29lcVlpX2NMSTJtVDVOem0zaDl4a2h0TEl2SU5HemxIejZVajk0YUtta3p3TTBzb0NQRW5RRXRnSkU1dlNyU1p3ekFFdXc1a2ZhaFVna05UQ3RSbEZ1WWVha05qWlpPUk54UTJPbHB0aEEwMWl4dzRaVEF30gHPAUFVX3lxTE10US1Ya3FlYTZ5bVJlX2dIMzZLNUMyeS1zWTUtSTh4OGJhR3pGZHcwMlZxQ1k2eWswTGwzemladHR1NEZ1aFlkaU5lSkhuZkFqallkMC1mdnR3ZFd4LV9NSTd6cDNqVUJRN1huTE54UXZfaExYUDNicS1uYU1NTzZQUXIyNmV1YjNBSXBGRFpXZzBWRlZPQTFacWx1Z0JhZjFMU0QxTndzY2I1UmFHT3VueHdWLURxZXd0YWNRNldhRjBWNXMyemlCX01ueXJ3cw?oc=5",
-      "published": "Fri, 10 Apr 2026 07:00:00 GMT",
-      "source": "India.com",
-      "id": "37fd4b1ea00d4eabb9f0caa1567837b7e6c0a439f5d0632abd65d0041edaf698",
-      "found_at": "2026-10-27T16:58:29.539710+00:00"
-    },
-    {
-      "title": "Australia Heavy Construction Equipment Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVozZXNRaDVYaHJiSVhycWVXTUdESGlUR1JwZl9FeHlhMXFXSmlvOWN0cWRUNzZwZmJIMkRReEZ3MFZ0RW9YSTdocGRkb0J4LVJHOWllYVQwZmRSY0NZb3cyYURQcFZfMHE5bXl1R25VRjB5eWtOU3hmei1MXzZWNVV4dVRlSE5LN09LRVkwV3RQb2dSX1FTSHNGWXJnUWdNSUVUT3o5WQ?oc=5",
-      "published": "Mon, 19 Oct 2026 09:50:07 GMT",
-      "source": "MarketsandMarkets",
-      "id": "d20089618c5d6c448d0b70772563dd223da53014506a02e75bf0af8d50f5dbe2",
-      "found_at": "2026-10-27T16:58:30.418207+00:00"
+      "id": "24ebde5b70a561a4f1be5ebde5391467fb10175e54cd8bcb4e15f4aa4a258e2d",
+      "found_at": "2026-10-27T21:32:58.039826+00:00"
     }
   ]
 }
