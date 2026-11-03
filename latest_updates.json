@@ -1,93 +1,37 @@
 {
-  "checked_at": "2026-11-02T14:01:44.780653+00:00",
+  "checked_at": "2026-11-03T00:08:50.731707+00:00",
   "new_updates": [
     {
-      "title": "VAHAN 4.0 (Citizen Services) ~SP-MORTH-WS03~175~8001 (Build Version:202610301544) - Parivahan",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdkIxV29SMV85VTBOM1ZmOVZVdDk3WHBPMnVnN2ZiYVhTMGx3UnR2dnhyWm9mWUlSbEM2cWNSRWVab0dJNzk4bWh4VDJqNU1iTnpYX3B1bWtNQXJsRnc4d1BKZE1GUThXcXhXSkJldW9pSVhrTHF0REFpR01QVGZFYlQ2bTU3RTZlT3lGXzdib2RrZGpIemw0ZFdEV3RqYTB1eXZHeEFMWXVuVTR4QVM1Mi0wekVIc3hMYUFPNkxuV3dKblY3SnVScXRVcFZ5YjJTREVyYUJNbw?oc=5",
-      "published": "Tue, 21 Sep 2021 12:32:20 GMT",
+      "title": "VAHAN 4.0 (Citizen Services) ~SP-MORTH-WS03~175~8012 (Build Version:202610301544) - Parivahan",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV3FMemJfZ2NKWHd1aWExZDJQRzlxMHk0UkdHVDlnREVzNW5xcldGakhXWmhKbnRkNU5YNVhnbmU1eEpTSW5aeElEZXU3OHpsMllFanhxaHpwZ1pBV194NW80Q0Y0MnJwcTFyeEpicnFWcV9BM21EMHNKR2g1V3JKUHpRSEVzUFFpZjVabkc5NUExd3E4SU9fUjVSRGNMRlgwUk11NlNkRDI2WnhvTTBYaHI5MWtrX2JKY0J3bXdnTTM0eWJLU2M5WEQtd0x1enctR19JeVJ6UQ?oc=5",
+      "published": "Wed, 19 Apr 2023 02:22:13 GMT",
       "source": "Parivahan",
-      "id": "2bacab14c569c327cb196c94e4f6bc4d57a170ccd2e24df9b2c10aafc3f8d48b",
-      "found_at": "2026-11-02T14:01:42.437836+00:00"
+      "id": "6e85b6c1e20b1656c195051b91e392d3ce3430bc30d91dd670453e3e9716c4c9",
+      "found_at": "2026-11-03T00:08:47.908144+00:00"
     },
     {
-      "title": "VAHAN 4.0 (Citizen Services) ~SP-MORTH-WS03~175~8014 (Build Version:202610301544) - Parivahan",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN29WQWhtVjRHSmRFUnVHWjM3SXFJQXk3T0wyaWdwN2JMdUk1cFhvQ0dBNE1pRUdhc2JpTDI0VEN3cXFUcW1BUF9NQzBkZFZwbWFEWFl1S194eU5oREhKMmhmczYwMjVQQ1pyTl9qdm1MMGsyUjJtd1M0Y1hLTU1HaEplNGdJYTQ0NXlESms5RUNQWHNvRjlfLW1nNDlPZmRDSERZQ29RR2FGY1FYWU5XM180Um5DXzI2Y3lMWnJQLW1HNVg4ejVtVUJaN0taVmxpejBRQmVmYw?oc=5",
-      "published": "Wed, 07 Jul 2021 07:25:44 GMT",
-      "source": "Parivahan",
-      "id": "d10225f102b5c942082c341e9ae9ea5903f2e5718ba10bf92d3f3a248b2349f0",
-      "found_at": "2026-11-02T14:01:42.437865+00:00"
-    },
-    {
-      "title": "Central Motor Vehicles (Twenty Fifth Amendment) Rules, 2021 - SCC Online",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWGJ1aUVEbV8zQ0xCSkhMNGVrQlZEd3ZHa2M3bjVPekVwSl91UFROZy1NOGpjdFVrQXE0eHRGNl9XVWZPdDhQSjl0c19iZW1WWWkySzhFZFJZeVByYTE1LXVYbHFxR0FGVFlpeEs4Y09ZdEl5V0UtTkZEZFNiUzhNdy1nYUMtMTFkV3dCYTNHbHduUW51emhoR0dzVGRVejhoYzBQd1JmZw?oc=5",
-      "published": "Thu, 14 Oct 2021 07:00:00 GMT",
-      "source": "SCC Online",
-      "id": "4d0fa0d3a9c25a04be95cd485e21733300e9d228d91762a19096428ca18c4ca3",
-      "found_at": "2026-11-02T14:01:42.743453+00:00"
-    },
-    {
-      "title": "MoRTH Proposes Mandatory Automatic Emergency Braking For New Cars From 2030 - carandbike",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWTJTNlZhX2NHanJjYndqX2ZPM05xSU84RUdvQ1BqRGVOQnBHbFlEY2ZiVk5mTkpFQnNDTjlycHJVWkdITG1Nd2pkQXlBNFlFOFJXTlNCVlZrd0JzdUVHS25jZWhTSHN6dE5EUmlkWlp1aDJQUXVySWptY1dQb1RJWFhySkhpVXI1djBSQTFEVno0bkV2TFRYRlNRcEpWMndGMmU1LVVPWGFKQmJFbG1XTExXajd2QdIBvgFBVV95cUxNNjBTcHFFeFVka1RFb3lqdXdOal9qWXJmU0RiZ1VvR2Y3dF8zRVhUVmx3Z1lUTkdVR0EtSlhuVUlxQXVYMV9zXzZuYXFZLW55VHlxWmJxb0tKNWtGcnRRbnUwWTdPN241QldQZVNpS3FPNUtDeG9tSFdCNEIyNnJjLV9yek1NWFBYSHRIY0xVRXJBMk9Ka3AtSW4xTnRvUmlqYU90WHMxeWRoUlFUSi1ITURpU1dLU09KTDR1OG9R?oc=5",
-      "published": "Fri, 23 Oct 2026 07:00:00 GMT",
+      "title": "New Driving License Registration Norms Coming In October - carandbike",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdUhod3hCTGFRdVVlOXlCV1lVTlhIQkw4R1g0aDdLZ3hrY09YN3VXRTd1ZnZyU1h0MUhpQUw3TU5Jb0toTGRPWkJiZDBTRGI0NGJjSURKQkkzUm9aRnJURi04OE5TMlFtU0pSQVktQUVwTDB1bVJ2Ul84N3lnOWppbmJfUk4xTkVWN2xjYVFUWU9LN1NYRnc2c0VvaDA?oc=5",
+      "published": "Fri, 08 Mar 2019 08:00:00 GMT",
       "source": "carandbike",
-      "id": "4db972807c8d8664b75f99da0bfe175387eb09d763ded1a893b0097b5c27db34",
-      "found_at": "2026-11-02T14:01:43.144898+00:00"
+      "id": "123032bed3187ba8e77d895ffd2e61762febb3e26d9fdbac73a31ccffdba3fb0",
+      "found_at": "2026-11-03T00:08:48.807732+00:00"
     },
     {
-      "title": "Safety Harness, Crash Helmet Mandatory For Children Below 4 Years On A Two-Wheeler, Says MoRTH - carandbike",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcUlycnRtcUJpc29oRFJRdFZQRDhXalVDQnR6bHBsNkxqRlpUN1dSWU9peHBiLUdBOEpuWFpQbEFSajJrSUNlYlk3eEhNOC1ySHlqa3pkVVhDd2dpOEhtX1ZkeUJBMTZRSmZoZTVmN3RhSnNKRUlYVnB3SUtSQV9HU3JoUnJXQl9pNXEwZnBBbmRiN0JtZmxrSWhwZWZRVGN1U25sOUFnTEUtdFZiNFUzTHgwOFN6N3hNcWlTUC1FTUkxQlRMTzUtYzV6OHXSAdQBQVVfeXFMTVVnRDFmcDF6bXVZaFFhT3NJdTZlYUNrME1FQlI3VS0yZlNPM3FKb3d2dkNWcEhnS1M3Nm00MXVBNllrSVhlVzVaN1ZJYk1xVWx2ZWw4bEM4NTZ2NlRab1JHeFhlMkR0Ulp6VS13VUxkdjFVdm4tSU9fWHpQczAzTnBLc2VrNl85a2szSlF3M0trQ1k1NXhiNlNlbHp6YmcwU3hVaFNLdmFxeVViZDR4YV9wd2hQTjhueFdEbWlqWlZfQU9oRnJZYjhlOG9lMjIydndOdlI?oc=5",
-      "published": "Wed, 16 Feb 2022 08:00:00 GMT",
+      "title": "9 Cars In India Which Are Available With Only The Driver-Side Airbag Safety Feature - carandbike",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLUFnVm5WVVBhZW1xOGJQUVJKMUljQkhKU1lEYWNDNVpHQTJmMnROcVJfYWNVb1pnbi1BY080NDJmN3kxWU9WTTVXSThIZkdfZHNvVjhYOTd2YXZYMS1VUFAzNkNkLW9YRThSc3I0V2NMSGhtRHRuZUgzZ1VWSWhWaE8wVC1HT01hOUJxNTBqS0lrQXNJZW9B0gGfAUFVX3lxTE1lbkg3dm1CZVpKWS1fNnhFMnQ4SGJPbVRWbEcyb1dqMUJtX2o0WDR0ZV9RZjJIeXNYVnZOYThrM1JqYWpMLXpJYXo2bkxiLUMzS2l0UmtzdFIzaDZNNjZ3NmRyVnJ0c2NfNEp2OWl6bE9NUDV3bWM2RXJQeDZQa216el93d1VDSjg3VnE2SDJSMkdkcEF3QnVZUHRjc2tEaw?oc=5",
+      "published": "Sat, 06 Mar 2021 08:00:00 GMT",
       "source": "carandbike",
-      "id": "8b114d144926c9a8f47cc26300c13f5622b285ddc911011c280c7c40dbaf2f98",
-      "found_at": "2026-11-02T14:01:43.145001+00:00"
+      "id": "d8b008ff0ee769199fee7d197830aff546ac0f2df388268c9aedad27f10a1dcc",
+      "found_at": "2026-11-03T00:08:48.807753+00:00"
     },
     {
-      "title": "Highest Number Of Accidents In 2021 Involved Less Than Five-Year-Old Vehicles: MoRTH - carandbike",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLU9NOW1fTl9VM3A2TzlwUXVGemZ4M2Vhc1dpbnB2ODBOWG1WM2p5bFZQYUhGUlg4Q0IxUmNaZmw2UjNORWgwZWZJdE1sSDREQVg3RDc4QUNRaEtienRZM2pOUWl2WWpXVEtCZ3MzLVZGQmtCWmluaFZqOXhmQk00RjVMb055UmVlNHk2VGNmeXRjdGFBNUU2LWdvd0xVN3hfcl9hbk9XUF9xcDV2UU1hd1hIUHNTRzhlWXBvOXAxZEjSAcgBQVVfeXFMTjduYlI0bEFnRzlhbGpBZVRQaGhpWVZKaE1ZSzhYdFFFc3lYSVF2Z1JmeDN0YWNVTEt1TzRncEhTSFdMLU1lYlllay1BRXRzZFNqS3hJUVhmby1GbnpKYjNJcUlLMmdvYWtfemVZZmRSdnBDeWZ0dXI2bTN1Tm93OFN3SkQweENkZFNIOEREblN0bERPenZ2WUJ0cWRpUTZab2VfUGdmc3Y5TG1tanE0OWdjdzJhN1pQbUZiQzdWNzZycy0za19LWm0?oc=5",
-      "published": "Thu, 29 Dec 2022 08:00:00 GMT",
-      "source": "carandbike",
-      "id": "addaf7bf8df7f7957be219b7f858147c7cc1c011ed573f49ead98b5c05bab7ae",
-      "found_at": "2026-11-02T14:01:43.145008+00:00"
-    },
-    {
-      "title": "New Rules For Accredited Driver Training Centres Mean You May Get To Skip A Driving License Test - carandbike",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWXJRTHR4SG42RmtKbUwtbXV2d3REdkpGUkpkTnVlNmZRVEhRdkVoMm1icmI0bzBHUnIyaE1kZXpBSFdVZjhmaC1qUGM2Tm52aDhXOGMzZEdIdXlJc0xfRGpJSjRQUTh1c0gySk5iWUJSdkNYMzIyLVFYY2ZDRldTOTRXejh4QXl1ZHp0VHJ0UFExM0ozMTF0UWlKaXZwSEtxZWpGUnRQOUUtUGw1M3lqcVZUZ25NbFJyNHR1eTdLQUZOVmJBekRxSGcwOHJWVW0wTVHSAdoBQVVfeXFMT1p2anR0VGltOVBmNVd6dGVXRDlRdVpJSVZqU2dsV1BHVmNqX0ktV1RYeG5aRnNfRXExZWRxak9vUXFPX05aRVVvVk1fTjJOQUdUQVgtV3ZLWEJBU005REk3TG01cVBlZmNDY2Zrc2NfUXBZRmpIYWpuUy1NRlN1aV9iWkplZ0JCQkF5M2ZyT1o5d0hVbk9DWmY4b0lEbUFmWnJZbFhFM0RvdE84WG8tQzBVQ0k2azA4Zks3Z0VmbkI3dEY0bFRFdUpfRlRCT3VYbkdaQW5iODB4ZGc?oc=5",
-      "published": "Mon, 14 Jun 2021 07:00:00 GMT",
-      "source": "carandbike",
-      "id": "25dfaebea282f7f17f33f381494203cd14f911a90d12ed88b2bbe1bac1bab20a",
-      "found_at": "2026-11-02T14:01:43.145019+00:00"
-    },
-    {
-      "title": "India’s New Road Safety Rules: How Driving Licence Points System And 2027 ADAS Mandate Could Prevent Accidents - BW Auto World",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVXJpNGI2SnlVSjBPVXQ5NFBVMjJFeUVzdDRkWFRaMUZiVE5hX2FORUlwMmlwejd6NjRZYnFhdkJhNEx1X29wc3VCRllTR2xhaHlVOTMxMkdtamJ0YVNEU3VVYm5uMHIxaVk2T0NQSXVTVDRtMnhUamZvc3diTFVJQmh0dF83eUJWZHZTV2oxZEk1UjhSSzVwNUxkQlZpLVBXV2xxLUltLVR4c1VUUUFvMGpqOVRQdmNoa1BXVDBaelZvUmd3UXgtWFNrOWxpdm5PNVR2RW0ycWNmOW1pd2U1Vmh3?oc=5",
-      "published": "Mon, 02 Nov 2026 07:16:56 GMT",
-      "source": "BW Auto World",
-      "id": "0979e8b67a049fc333b7e6509bb5270c7ff373cd7cfb661d489822ab41b3e6f8",
-      "found_at": "2026-11-02T14:01:43.476085+00:00"
-    },
-    {
-      "title": "Cashless Push: Pay 2x Toll Without FASTag, 1.25x With UPI From November 15 - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUGI3R19kQzZNQ3dxVGFhZVBXWEJnRmxrWnpISEY3ZXdNa2JDZVVDd2tWS056OFROWlhrblZHMmxWbHkwWFZUcFVXU2tNUzNLQlhwS2tDM0tXTUU1NXBIRThiY01vRzhOdUtJSFNDY2VNVU1UMWpYYnhLMVRxV1FvUVpjZFhFSkxQUUdOVnF4TVJrOW1EYkdUYXo5RHJnYjJNMVNydXJEejVNYVpaa0VBeWFR?oc=5",
-      "published": "Wed, 15 Oct 2025 07:00:00 GMT",
-      "source": "NDTV",
-      "id": "7786a8f298634a1bddf3de8452869be4e9e783573d1427253667128430e43ce9",
-      "found_at": "2026-11-02T14:01:44.027963+00:00"
-    },
-    {
-      "title": "Mahindra Unveils Alternate Fuel Tractors at Agrovision 2025 - Autocar Professional",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX2ZHeUw0TnNzcGZ0T1FtSV9OTERjSGFYcWZOV2QyN0ZEWGo1ZTlvRjMwV1U4b2s5MDhYN2RqbGNOYkVwOGJDWTlFVXR4eTBzSlB1c3FJN1JQT2xmZ0lsS2c0TjVpZ1ljbnBoOW5kcWxhWFBHaW1zcHlLcWxaQkNWZzhfMy1YVFU3cDQtSlFieWFnSlppdlA0d2g5SlNVUdIBpgFBVV95cUxNWnNHTXhPbjFqVnZFRktYeHpnUlZ3dFc2RHp4d0RkV09wX003UHhzdTVVVUVmLVFZc3p6b0lBVVpRVW02a19DR2VrajZyY20teTlBaWJqUzFyQno1Y1hBdG9XeWhBUEhsb1oyVzlvc0gzSHlrUkcyb1pSdnFNUzhJRWxqWG1OZHI5RmJpdDBWWDBPZHh1M0VmOHNrRHhGMWRiS1dXLU93?oc=5",
-      "published": "Fri, 21 Nov 2025 08:00:00 GMT",
-      "source": "Autocar Professional",
-      "id": "18da409012db69a3d04dff825f07e6ffadde189119b951e813783d74799d1937",
-      "found_at": "2026-11-02T14:01:44.778155+00:00"
-    },
-    {
-      "title": "Germany Heavy Construction Equipment Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZXlSMUs1UTg0UnRTbHFMRFFtUUxaZHpWWllxY1VCMHh2X3lzVTFnMFlUTTdMbEtCVmdSajQ4NkFBdWxUTXFqRHBPSEo2b2hZSmFYMXM5UzFkOENMX1kydE9MZG1PTWlXaDdwdGNVUUV3S0ZUVTNIcEN6TEpuSXFWWGtVNmJ4VDhXSEthNEctOHRuMVNLSElKQ2tHREVTTGxNNDhfUg?oc=5",
-      "published": "Thu, 20 Aug 2026 20:27:40 GMT",
-      "source": "MarketsandMarkets",
-      "id": "0259d8b91418bd06560021ac772233c6bb7d43ccb6d17d2b296e7ee9a373a4a8",
-      "found_at": "2026-11-02T14:01:44.778259+00:00"
+      "title": "New highway toll rules from Nov 1: Residents within 20 Km of toll plazas may get annual pass facility; Check - India.com",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQVWJORXcxMm9IdTJ5eDhDWklKaGRsYlRKRE8wdTZQZ1ZYZTRnOFhHTE9qSERBQjdtMDBMSFRHUXV0Z283S0V6MHhXX05OdUY3eVRsdnhINlBhZXFjUGx4dUF5SlFrdzRtSkFETl9BZDkwNVIzWDk4N09xMmlnemdHdUxpWXcyQXk3aXFUYVJWanhralBkb0w2VlpJNHdqWXM5ZXFwLXBmTWhVV0FiZGRJVUVMT3loNDU5ZXpvSEZRVDJwZ2ZBV0tnbGtyNFZ2S1FvVHRtalNfbnRnTy14UVJlTWZhWWF1c0NpUHBLUFZoMlc0Q3RKbXN1UDhEVjY2WFJwdWhpWHpRS0xZTWNBTU5ZSmhoUUvSAZoCQVVfeXFMUFJzVXJhcXRaM2V6eGNPMTQ1eXFfQmlHY2ZWcEFUa1ZvZmRlQmtQMHNnRTBPLWxNbnhNMlhSQVZWTnNGcHR0MlAzSzQ5TTVub3ZWTi1SbDFlNDBYQTJjd2tnT0lUdC1QX2N6eDd1TjlhS0NLOXV3dl83N19icU9OR09Ub1loV1hUazVmbmZOcW1ENW9xd183aWdaQlJTQlFNcDQ3aE9OeG1mUlB1WFRTTEktYklMUzJpOG1RMUpvWFppZkxjZUJWME1nb05jWXhEQ002b3ZxQjRlYk15RGY5ZXJoZmIyOS1TZjduSmRoeUdNX29uWTF2ZWRUZVZ4Q1lQSUlWcFFVZEsyR3lneTVoci0weEswbmgtLTln?oc=5",
+      "published": "Tue, 27 Oct 2026 08:03:17 GMT",
+      "source": "India.com",
+      "id": "2996a2772e2ca1cc22c3213dd86ad8358e928a7ea265ddee67fcf799c55b82c6",
+      "found_at": "2026-11-03T00:08:49.948074+00:00"
     }
   ]
 }
